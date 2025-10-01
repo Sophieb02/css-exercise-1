@@ -1,0 +1,24 @@
+html
+{font-family: sans-serif;
+ background-color: rgb(251, 164, 216);
+} 
+
+.global{
+ background-color: rgb(210, 207, 209);
+}
+
+
+.local{
+ background-color: rgb(189, 227, 193);    
+}
+
+
+.title{
+    color:rgb(22, 255, 205)
+}
+
+
+
+.sub-title{
+    color:rgb(245, 41, 208)
+}
